@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+
+examples/*/build/
+examples/*/managed_components/
+examples/*/sdkconfig
+examples/*/sdkconfig.old
+components/*/test_apps/*/build/
+components/*/test_apps/*/managed_components/
+components/*/test_apps/*/sdkconfig
+components/*/test_apps/*/sdkconfig.old
+dependencies.lock
+
+tools/.venv-*/
+tools/tests/.artifacts/

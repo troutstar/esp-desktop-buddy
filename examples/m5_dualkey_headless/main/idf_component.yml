@@ -1,0 +1,16 @@
+dependencies:
+  esp_desktop_buddy:
+    path: ../../../components/esp_desktop_buddy
+  esp_desktop_buddy_transport_ble:
+    path: ../../../components/esp_desktop_buddy_transport_ble
+  example_console:
+    path: ../../../examples/common/components/example_console
+  example_app_helpers:
+    path: ../../../examples/common/components/example_app_helpers
+  example_status:
+    path: ../../../examples/common/components/example_status
+  example_store_nvs:
+    path: ../../../examples/common/components/example_store_nvs
+  espressif/cjson:
+    version: "1.7.19~2"
+  espressif/led_strip: "^3.0.3"

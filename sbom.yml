@@ -1,0 +1,6 @@
+name: esp_desktop_buddy
+description: ESP Desktop Buddy SDK, reference applications, and host-side tooling.
+supplier: "Organization: Espressif Systems (Shanghai) CO LTD"
+license: Apache-2.0
+copyright:
+  - 2026 Espressif Systems (Shanghai) CO LTD
