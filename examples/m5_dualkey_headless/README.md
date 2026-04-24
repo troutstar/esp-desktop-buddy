@@ -2,6 +2,10 @@
 
 Desktop Buddy example for an M5Stack Chain DualKey on an ESP32-S3 host. Uses hardware keys and LEDs for prompt handling.
 
+<a href="../../docs/static/m5-dualkey-headless.gif">
+  <img src="../../docs/static/m5-dualkey-headless.gif" alt="M5 DualKey Desktop Buddy prompt controls with BLE status LEDs" width="460">
+</a>
+
 ## Hardware
 
 - ESP32-S3 host board

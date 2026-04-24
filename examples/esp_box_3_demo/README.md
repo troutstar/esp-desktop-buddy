@@ -2,6 +2,10 @@
 
 Full Desktop Buddy demo for ESP-BOX-3 with on-device UI and character-pack transfer support.
 
+<a href="../../docs/static/esp-box-3-demo.png">
+  <img src="../../docs/static/esp-box-3-demo.png" alt="ESP-BOX-3 Desktop Buddy demo showing on-device prompt approval UI" width="460">
+</a>
+
 ## Hardware
 
 - ESP32-S3-BOX-3
