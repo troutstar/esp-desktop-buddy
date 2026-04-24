@@ -1,6 +1,6 @@
 # ESP Desktop Buddy
 
-An ESP-IDF SDK for building BLE-capable ESP32 devices for Claude Desktop Buddy.
+An ESP-IDF SDK for building Buddy devices that work with Claude Desktop.
 
 This repository implements the [`protocol`](https://github.com/anthropics/claude-desktop-buddy/blob/main/REFERENCE.md) defined in the upstream [`claude-desktop-buddy`](https://github.com/anthropics/claude-desktop-buddy) repository.
 
@@ -31,6 +31,11 @@ Public components:
 
 ## Start Here
 
+<a href="https://espressif.github.io/esp-desktop-buddy/">
+  <img alt="Try it with ESP Launchpad" src="https://espressif.github.io/esp-launchpad/assets/try_with_launchpad.png" width="220" height="62">
+</a>
+
 - [Getting Started](docs/getting-started.md)
+- [Examples](examples/README.md)
 - [Integration](docs/integration.md)
 - [Testing](docs/testing.md)
